@@ -1,0 +1,6 @@
+{
+  "name": "Samora Air & HVAC",
+  "description": "Expert heating, cooling and HVAC installation, repair and maintenance services in Leeds, United Kingdom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
